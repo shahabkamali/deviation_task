@@ -1,7 +1,7 @@
-##Run
+## Run
 
-docker-compose build
+`docker-compose build`
 
-run docker-compose up -d. Lets go to browser and type: localhost:8000
+run `docker-compose up -d`. Lets go to browser and type: localhost:8000
 
-For stopping the docker, run docker-compose stop. Re-running docker, use docker-compose start.
+For stopping the docker, run `docker-compose stop`. Re-running docker, use `docker-compose start`.
